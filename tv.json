@@ -20,7 +20,7 @@
     {
       "id": 1,
       "name": "Demo Live Channel",
-      "logo": "https://placehold.co/400x400/c62828/ffffff/png?text=Live+TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Oxygen480-devices-video-television_%28modified_and_cropped%29.svg/500px-Oxygen480-devices-video-television_%28modified_and_cropped%29.svg.png",
       "stream_url": "https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8",
       "stream_type": "hls",
       "category_id": 1,
@@ -32,7 +32,7 @@
     {
       "id": 2,
       "name": "Big Buck Bunny",
-      "logo": "https://placehold.co/400x400/283593/ffffff/png?text=Bunny",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/500px-Big_buck_bunny_poster_big.jpg",
       "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "stream_type": "hls",
       "category_id": 2,
@@ -44,7 +44,7 @@
     {
       "id": 3,
       "name": "Tears of Steel",
-      "logo": "https://placehold.co/400x400/37474f/ffffff/png?text=Steel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/500px-Tos-poster.png",
       "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
       "stream_type": "hls",
       "category_id": 2,
@@ -56,7 +56,7 @@
     {
       "id": 4,
       "name": "Apple BipBop",
-      "logo": "https://placehold.co/400x400/2e7d32/ffffff/png?text=BipBop",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/500px-Apple_logo_grey.svg.png",
       "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
       "stream_type": "hls",
       "category_id": 3,
@@ -64,6 +64,29 @@
       "description": "Apple's HLS test pattern with several resolutions, for testing the quality menu.",
       "live": false,
       "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Demo 5",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/500px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+      "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd08",
+      "stream_type": "hls",
+      "category_id": 1,
+      "country": "Demo",
+      "description": "Live HLS test stream.",
+      "live": true,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Demo 6",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/500px-HD_Television.svg.png",
+      "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd05",
+      "category_id": 1,
+      "country": "Demo",
+      "description": "Live stream with no stream_type: the app detects the format automatically.",
+      "live": true,
+      "featured": true
     }
   ]
 }
