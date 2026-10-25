@@ -25,7 +25,7 @@
     {
       "id": 1,
       "name": "NTV HD",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/ntv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/ntv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd03",
       "stream_type": "hls",
       "category_id": 1,
@@ -37,7 +37,7 @@
     {
       "id": 2,
       "name": "TBS HD",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tbs.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tbs.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd04",
       "stream_type": "hls",
       "category_id": 1,
@@ -49,7 +49,7 @@
     {
       "id": 3,
       "name": "Fuji TV HD",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/fuji-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/fuji-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd05",
       "stream_type": "hls",
       "category_id": 1,
@@ -61,7 +61,7 @@
     {
       "id": 4,
       "name": "TV Asahi HD",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tv-asahi.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tv-asahi.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd06",
       "stream_type": "hls",
       "category_id": 1,
@@ -73,7 +73,7 @@
     {
       "id": 5,
       "name": "TV Tokyo HD",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tv-tokyo.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tv-tokyo.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd07",
       "stream_type": "hls",
       "category_id": 1,
@@ -85,7 +85,7 @@
     {
       "id": 6,
       "name": "TOKYO MX1 HD",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tokyo-mx1.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tokyo-mx1.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=hdgd08",
       "stream_type": "hls",
       "category_id": 1,
@@ -97,7 +97,7 @@
     {
       "id": 7,
       "name": "NTV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/ntv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/ntv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd03",
       "stream_type": "hls",
       "category_id": 1,
@@ -109,7 +109,7 @@
     {
       "id": 8,
       "name": "TBS",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tbs.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tbs.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd04",
       "stream_type": "hls",
       "category_id": 1,
@@ -121,7 +121,7 @@
     {
       "id": 9,
       "name": "Fuji TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/fuji-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/fuji-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd05",
       "stream_type": "hls",
       "category_id": 1,
@@ -133,7 +133,7 @@
     {
       "id": 10,
       "name": "TV Asahi",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tv-asahi.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tv-asahi.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd06",
       "stream_type": "hls",
       "category_id": 1,
@@ -145,7 +145,7 @@
     {
       "id": 11,
       "name": "TV Tokyo",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tv-tokyo.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tv-tokyo.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd07",
       "stream_type": "hls",
       "category_id": 1,
@@ -157,7 +157,7 @@
     {
       "id": 12,
       "name": "TOKYO MX1",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tokyo-mx1.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tokyo-mx1.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gd08",
       "stream_type": "hls",
       "category_id": 1,
@@ -169,7 +169,7 @@
     {
       "id": 13,
       "name": "MBS",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/mbs.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/mbs.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gx01",
       "stream_type": "hls",
       "category_id": 2,
@@ -181,7 +181,7 @@
     {
       "id": 14,
       "name": "ABC",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/abc.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abc.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gx02",
       "stream_type": "hls",
       "category_id": 2,
@@ -193,7 +193,7 @@
     {
       "id": 15,
       "name": "Kansai TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/kansai-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/kansai-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gx03",
       "stream_type": "hls",
       "category_id": 2,
@@ -205,7 +205,7 @@
     {
       "id": 16,
       "name": "ytv",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/ytv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/ytv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gx04",
       "stream_type": "hls",
       "category_id": 2,
@@ -217,7 +217,7 @@
     {
       "id": 17,
       "name": "TV Osaka",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tv-osaka.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tv-osaka.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gx05",
       "stream_type": "hls",
       "category_id": 2,
@@ -229,7 +229,7 @@
     {
       "id": 18,
       "name": "SUN TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/sun.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/sun.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=gx07",
       "stream_type": "hls",
       "category_id": 2,
@@ -241,7 +241,7 @@
     {
       "id": 19,
       "name": "BS NTV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/bs-ntv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/bs-ntv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs02",
       "stream_type": "hls",
       "category_id": 3,
@@ -253,7 +253,7 @@
     {
       "id": 20,
       "name": "BS Asahi",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/bs-asahi.jpg",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/bs-asahi.jpg",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs03",
       "stream_type": "hls",
       "category_id": 3,
@@ -265,7 +265,7 @@
     {
       "id": 21,
       "name": "BS TBS",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/bs-tbs.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/bs-tbs.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs04",
       "stream_type": "hls",
       "category_id": 3,
@@ -277,7 +277,7 @@
     {
       "id": 22,
       "name": "BS TV Tokyo",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/bs-tv-tokyo.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/bs-tv-tokyo.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs05",
       "stream_type": "hls",
       "category_id": 3,
@@ -289,7 +289,7 @@
     {
       "id": 23,
       "name": "BS Fuji",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/bs-fuji.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/bs-fuji.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs06",
       "stream_type": "hls",
       "category_id": 3,
@@ -301,7 +301,7 @@
     {
       "id": 24,
       "name": "BS 10 Star Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/bs-10-star-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/bs-10-star-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs08",
       "stream_type": "hls",
       "category_id": 3,
@@ -313,7 +313,7 @@
     {
       "id": 25,
       "name": "Green Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/green-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/green-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs14",
       "stream_type": "hls",
       "category_id": 3,
@@ -325,7 +325,7 @@
     {
       "id": 26,
       "name": "Animax",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/animax.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/animax.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs15",
       "stream_type": "hls",
       "category_id": 3,
@@ -337,7 +337,7 @@
     {
       "id": 27,
       "name": "Nihon Eiga Senmon",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/nihon-eiga-senmon.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/nihon-eiga-senmon.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs23",
       "stream_type": "hls",
       "category_id": 3,
@@ -349,7 +349,7 @@
     {
       "id": 28,
       "name": "Sky A",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/sky-a.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/sky-a.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs01",
       "stream_type": "hls",
       "category_id": 4,
@@ -361,7 +361,7 @@
     {
       "id": 29,
       "name": "Fishing Vision",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/fishing-vision.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/fishing-vision.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs25",
       "stream_type": "hls",
       "category_id": 3,
@@ -373,7 +373,7 @@
     {
       "id": 30,
       "name": "Disney Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/disney-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/disney-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs24",
       "stream_type": "hls",
       "category_id": 3,
@@ -385,7 +385,7 @@
     {
       "id": 31,
       "name": "JCOM BS",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/jcom-bs.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/jcom-bs.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs31",
       "stream_type": "hls",
       "category_id": 3,
@@ -397,7 +397,7 @@
     {
       "id": 32,
       "name": "Jidaigeki Senmon",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/jidaigeki-senmon.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/jidaigeki-senmon.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs04",
       "stream_type": "hls",
       "category_id": 4,
@@ -409,7 +409,7 @@
     {
       "id": 33,
       "name": "Toei Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/toei-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/toei-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs27",
       "stream_type": "hls",
       "category_id": 4,
@@ -421,7 +421,7 @@
     {
       "id": 34,
       "name": "Eisei Gekijo",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/eisei-gekijo.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/eisei-gekijo.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs22",
       "stream_type": "hls",
       "category_id": 4,
@@ -433,7 +433,7 @@
     {
       "id": 35,
       "name": "Family Gekijyo",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/family-gekijyo.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/family-gekijyo.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs20",
       "stream_type": "hls",
       "category_id": 4,
@@ -445,7 +445,7 @@
     {
       "id": 36,
       "name": "Movie Plus",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/movie-plus.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/movie-plus.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs14",
       "stream_type": "hls",
       "category_id": 4,
@@ -457,7 +457,7 @@
     {
       "id": 37,
       "name": "Home Drama Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/home-drama-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/home-drama-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs05",
       "stream_type": "hls",
       "category_id": 4,
@@ -469,7 +469,7 @@
     {
       "id": 38,
       "name": "Tabi Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tabi-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tabi-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs12",
       "stream_type": "hls",
       "category_id": 4,
@@ -481,7 +481,7 @@
     {
       "id": 39,
       "name": "Fuji TV Next",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/fuji-tv-next.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/fuji-tv-next.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs26",
       "stream_type": "hls",
       "category_id": 4,
@@ -493,7 +493,7 @@
     {
       "id": 40,
       "name": "GAORA Sports",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/gaora-sports.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/gaora-sports.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs17",
       "stream_type": "hls",
       "category_id": 4,
@@ -505,7 +505,7 @@
     {
       "id": 41,
       "name": "Golf Network",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/golf-network.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/golf-network.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs03",
       "stream_type": "hls",
       "category_id": 4,
@@ -517,7 +517,7 @@
     {
       "id": 42,
       "name": "Nittele G+",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/nittele-g.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/nittele-g.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs02",
       "stream_type": "hls",
       "category_id": 4,
@@ -529,7 +529,7 @@
     {
       "id": 43,
       "name": "Mondo TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/mondo-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/mondo-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs21",
       "stream_type": "hls",
       "category_id": 4,
@@ -541,7 +541,7 @@
     {
       "id": 44,
       "name": "Channel Ginga",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/channel-ginga.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/channel-ginga.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs29",
       "stream_type": "hls",
       "category_id": 4,
@@ -553,7 +553,7 @@
     {
       "id": 45,
       "name": "Space Shower TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/space-shower-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/space-shower-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=bs26",
       "stream_type": "hls",
       "category_id": 4,
@@ -565,7 +565,7 @@
     {
       "id": 46,
       "name": "Music Japan TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/music-japan-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/music-japan-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs06",
       "stream_type": "hls",
       "category_id": 4,
@@ -577,7 +577,7 @@
     {
       "id": 47,
       "name": "Kayo Pops",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/kayo-pops.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/kayo-pops.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs13",
       "stream_type": "hls",
       "category_id": 4,
@@ -589,7 +589,7 @@
     {
       "id": 48,
       "name": "MTV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/mtv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/mtv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs18",
       "stream_type": "hls",
       "category_id": 4,
@@ -601,7 +601,7 @@
     {
       "id": 49,
       "name": "LaLa TV",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/lala-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/lala-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs19",
       "stream_type": "hls",
       "category_id": 4,
@@ -613,7 +613,7 @@
     {
       "id": 50,
       "name": "Takarazuka Sky Stage",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/takarazuka-sky-stage.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/takarazuka-sky-stage.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs28",
       "stream_type": "hls",
       "category_id": 4,
@@ -625,7 +625,7 @@
     {
       "id": 51,
       "name": "Kids Station",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/kids-staton-tv.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/kids-staton-tv.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs07",
       "stream_type": "hls",
       "category_id": 4,
@@ -637,7 +637,7 @@
     {
       "id": 52,
       "name": "Cartoon Network",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/cartoon-network.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/cartoon-network.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs25",
       "stream_type": "hls",
       "category_id": 4,
@@ -649,7 +649,7 @@
     {
       "id": 53,
       "name": "National Geographic Japan",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/national-geographic-japan.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/national-geographic-japan.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs10",
       "stream_type": "hls",
       "category_id": 4,
@@ -661,7 +661,7 @@
     {
       "id": 54,
       "name": "Disney Junior",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/disney-junior.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/disney-junior.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs23",
       "stream_type": "hls",
       "category_id": 4,
@@ -673,7 +673,7 @@
     {
       "id": 55,
       "name": "Discovery Channel",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/discovery-channel.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/discovery-channel.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs08",
       "stream_type": "hls",
       "category_id": 4,
@@ -685,7 +685,7 @@
     {
       "id": 56,
       "name": "Animal Planet",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/animal-planet.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/animal-planet.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs24",
       "stream_type": "hls",
       "category_id": 4,
@@ -697,7 +697,7 @@
     {
       "id": 57,
       "name": "History",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/history.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/history.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs09",
       "stream_type": "hls",
       "category_id": 4,
@@ -709,7 +709,7 @@
     {
       "id": 58,
       "name": "TBS News",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/jptv-data/main/logos/tbs-news.png",
+      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/tbs-news.png",
       "stream_url": "https://ri.shinori.my.id/pxx.php?shk_cid=cs11",
       "stream_type": "hls",
       "category_id": 4,
