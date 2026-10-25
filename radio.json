@@ -1,1 +1,102 @@
-[{"id":1,"name":"NHK Radio 1 (Tokyo)","description":"News, disaster prevention, and talk - Japan's public broadcaster","image":"https://www.nhk.or.jp/common/img/ogp_nhk_radio.png","stream_url":"https://radio.garden/api/ara/content/listen/ZR14bWZD/channel.mp3","stream_type":"mp3","country":"JP","genre":"News/Talk"},{"id":2,"name":"NHK FM (Tokyo)","description":"Classical, jazz, and popular music with high-quality audio","image":"https://play-lh.googleusercontent.com/2Z7jpdoMIUukRtNZ22m4tupPl6vjVOYVSoRKG9x8r8q5cEcSVrQEKVoNftK6tyXUkzc=w480-h960-rw","stream_url":"https://radio.garden/api/ara/content/listen/ZR14bWZD/channel.mp3","stream_type":"mp3","country":"JP","genre":"Music"},{"id":3,"name":"J-WAVE 81.3 FM","description":"Tokyo's leading FM station playing contemporary hits and featuring top DJs from Roppongi Hills","image":"https://www.j-wave.co.jp/img/common/ogp.jpg","stream_url":"https://radio.garden/api/ara/content/listen/ZR14bWZD/channel.mp3","stream_type":"mp3","country":"JP","genre":"Pop/Rock"},{"id":4,"name":"TOKYO FM","description":"One of Tokyo's most popular FM stations with music, news, and entertainment","image":"https://www.tfm.co.jp/assets/img/common/logo.png","stream_url":"https://radio.garden/api/ara/content/listen/ZR14bWZD/channel.mp3","stream_type":"mp3","country":"JP","genre":"Variety"},{"id":5,"name":"InterFM 897","description":"Tokyo's multicultural radio station broadcasting in multiple languages with international music","image":"https://www.interfm.co.jp/assets/images/ogp.png","stream_url":"https://simulradio.jpn.org/interfm.m3u8","stream_type":"hls","country":"JP","genre":"International"}]
+[
+  {
+    "id": 1,
+    "name": "Shonan Beach FM 78.9",
+    "description": "Licensed community FM from Zushi/Hayama, Kanagawa: jazz, Hawaiian and smooth sounds by the sea",
+    "image": "https://www.beachfm.co.jp/wp-content/themes/welcart_basic-voll-beachfm/img/common/logo_sidemenu.png",
+    "stream_url": "https://shonanbeachfm.out.airtime.pro/shonanbeachfm_a",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Jazz/Easy listening"
+  },
+  {
+    "id": 2,
+    "name": "FM Setagaya 83.4",
+    "description": "Tokyo community FM for Setagaya ward: local news, talk and music",
+    "image": "https://fmsetagaya.com/wp/wp-content/uploads/2019/01/cropped-icon512.gif",
+    "stream_url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 3,
+    "name": "FMYY 77.8 Kobe",
+    "description": "Multilingual community FM from Nagata, Kobe, born after the 1995 Great Hanshin earthquake",
+    "image": "https://tcc117.jp/fmyy/wp-content/uploads/2017/02/cropped-yyfavicon-180x180.png",
+    "stream_url": "https://tcc117.jp/fmyy/asx/simulbroadcast.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 4,
+    "name": "NHK WORLD-JAPAN Radio",
+    "description": "NHK's international radio service: news and programs about Japan",
+    "image": "https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_news_192x192.png",
+    "stream_url": "https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8",
+    "stream_type": "hls",
+    "country": "JP",
+    "genre": "News"
+  },
+  {
+    "id": 5,
+    "name": "OTTAVA",
+    "description": "Japanese classical music station with curated programs from Tokyo",
+    "image": "https://ottava.jp/img/common/touch_icon.png",
+    "stream_url": "https://ottava2.out.airtime.pro/ottava2_a",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Classical"
+  },
+  {
+    "id": 6,
+    "name": "RadiCro",
+    "description": "Japanese internet radio with talk and music shows",
+    "image": "https://radicro.com/images/webclip.png",
+    "stream_url": "https://radicrojapan.out.airtime.pro/radicrojapan_b",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 7,
+    "name": "Ashiya Radio",
+    "description": "Bossa nova, piano jazz and cafe music from Ashiya, Hyogo",
+    "image": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_512,h_512,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
+    "stream_url": "https://s3.radio.co/sc8d895604/listen",
+    "stream_type": "aac",
+    "country": "JP",
+    "genre": "Jazz"
+  },
+  {
+    "id": 8,
+    "name": "LISTEN.moe J-Pop",
+    "description": "Non-stop J-pop and anime songs, 24/7",
+    "image": "https://listen.moe/images/share.jpg",
+    "stream_url": "https://listen.moe/fallback",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "J-Pop/Anime"
+  },
+  {
+    "id": 9,
+    "name": "Gensokyo Radio",
+    "description": "24/7 Touhou Project music and arrangements",
+    "image": "https://cdn.gensokyoradio.net/images/gr8_logo.png",
+    "stream_url": "https://stream.gensokyoradio.net/1",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Game music"
+  },
+  {
+    "id": 10,
+    "name": "R/a/dio",
+    "description": "Anime and J-pop with live DJs",
+    "image": "https://r-a-d.io/assets/images/apple_touch_icon.png",
+    "stream_url": "https://relay0.r-a-d.io/main.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "J-Pop/Anime"
+  }
+]
