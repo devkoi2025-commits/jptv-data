@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "name": "OTTAVA",
+    "description": "OTTAVAは、東京から届けられるクラシック音楽専門のステーションです。選び抜かれた楽曲と丁寧に構成された番組で、クラシックを身近に感じられる上質な時間をつくっています。\n\n交響曲や室内楽、ピアノ曲など、幅広いクラシック作品をゆったりと楽しめます。作業中のBGMにも、じっくり耳を傾けたいひとときにもぴったりで、初心者から愛好家まで幅広くおすすめです。",
+    "image": "https://ottava.jp/img/common/touch_icon.png",
+    "stream_url": "https://ottava2.out.airtime.pro/ottava2_a",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Classical"
+  },
+  {
+    "id": 2,
+    "name": "AFN Tokyo - The Eagle 810",
+    "description": "AFN東京（The Eagle 810）は、東京の横田基地から放送されている米軍放送網AFNのラジオ局です。日本に駐留するアメリカ軍関係者とその家族に向けて、英語で番組を届けています。\n\nアメリカのヒット曲を中心とした音楽に加え、ニュースや生活情報も英語で楽しめます。本場のアメリカンラジオの雰囲気を味わいたい方や、英語のリスニングに親しみたい方にもおすすめです。",
+    "image": "https://cdn-radiotime-logos.tunein.com/s287011d.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 3,
+    "name": "AFN Okinawa 89.1",
+    "description": "AFN沖縄は、沖縄から放送されている米軍放送網AFNのラジオ局です。沖縄に駐留するアメリカ軍関係者とその家族に向けて、英語による番組を届けています。\n\n英語の音楽番組やニュース、地域のコミュニティ情報などを聴くことができます。アメリカの音楽や英語の放送に触れたい方、沖縄ならではの国際的な空気を感じたい方にぴったりです。",
+    "image": "https://station-images-prod.radio-assets.com/300/afn-360-okinawa-japan-only.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OKN.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 4,
+    "name": "AFN Sasebo 93.1",
+    "description": "AFN佐世保は、長崎県佐世保市から放送されている米軍放送網AFNのラジオ局です。佐世保に駐留するアメリカ海軍の関係者とその家族のために、英語で番組を届けています。\n\n英語の音楽や生活に役立つ情報を中心に楽しめます。アメリカのラジオらしい雰囲気が好きな方や、日常の中で自然に英語に触れたい方におすすめのステーションです。",
+    "image": "https://cdn-profiles.tunein.com/s14578/images/logod.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_SBO.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 5,
+    "name": "AFN Misawa 1575",
+    "description": "AFN三沢は、青森県の三沢基地から放送されている米軍放送網AFNのラジオ局です。日本に駐留するアメリカ軍関係者とその家族に向けて、英語で番組を届けています。\n\n英語の音楽番組やニュース、基地に関する情報などを聴くことができます。アメリカの音楽シーンや英語のラジオに親しみたい方に、気軽に楽しんでいただけるステーションです。",
+    "image": "https://cdn-profiles.tunein.com/s14574/images/logod.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_MSW.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 6,
+    "name": "AFN Iwakuni 1575",
+    "description": "AFN岩国は、山口県の米海兵隊岩国航空基地から放送されている米軍放送網AFNのラジオ局です。駐留するアメリカ軍関係者とその家族に向けて、英語で番組を届けています。\n\n英語による音楽やニュース、コミュニティ情報を楽しめます。アメリカのラジオ文化に触れてみたい方や、英語のリスニング環境を手軽に取り入れたい方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s14580/images/logod.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_IWA.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 7,
+    "name": "FM Setagaya 83.4",
+    "description": "エフエム世田谷は、東京都世田谷区を放送エリアとするコミュニティFMです。地域に根ざした放送局として、世田谷の暮らしに身近な話題を届けています。\n\n地元のニュースやトーク、音楽番組などを楽しめます。世田谷にお住まいの方や区内に通う方はもちろん、東京の街の空気を感じたい方にもおすすめのステーションです。",
+    "image": "https://fmsetagaya.com/wp/wp-content/uploads/2019/01/cropped-icon512.gif",
+    "stream_url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 8,
+    "name": "Shonan Beach FM 78.9",
+    "description": "湘南ビーチFMは、神奈川県の逗子・葉山エリアから放送されているコミュニティFMです。海辺の街らしい開放的でおしゃれな雰囲気が魅力の放送局です。\n\nジャズやハワイアン、心地よいスムースサウンドを中心に楽しめます。海辺のドライブやくつろぎの時間、カフェのようなBGMを求める方にぴったりのステーションです。",
+    "image": "https://www.beachfm.co.jp/wp-content/themes/welcart_basic-voll-beachfm/img/common/logo_sidemenu.png",
+    "stream_url": "https://shonanbeachfm.out.airtime.pro/shonanbeachfm_a",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Jazz/Easy listening"
+  },
+  {
+    "id": 9,
+    "name": "FM Kahoku 78.7",
+    "description": "FMかほくは、石川県かほく市から放送されているコミュニティFMです。かほく市・内灘町・津幡町をエリアに、地域に密着した放送を続けています。\n\n地元で制作されたトークや音楽番組に加え、災害時の情報も届けています。地域の話題を知りたい方や、石川県のローカルな空気に触れたい方におすすめです。",
+    "image": "https://fm.kahoku.net/wp-content/uploads/2017/11/cropped-favicon_fmkahoku-192x192.jpg",
+    "stream_url": "https://radio.kahoku.net:8443/;",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 10,
+    "name": "FM N1 76.3",
+    "description": "FM-N1は、石川県野々市市から放送されているコミュニティFMです。地元の学生とともに番組づくりを行っているのが特色で、若々しく親しみやすい放送局です。\n\n地域の話題を取り上げたトークや音楽を楽しめます。野々市周辺にゆかりのある方や、学生が関わる手づくり感あふれるローカルラジオが好きな方にぴったりです。",
+    "image": "https://www.fmn1.jp/wp-content/themes/fmn12024/images/ogp.png",
+    "stream_url": "https://hls.fmn1.jp/fmn1/live01.m3u8",
+    "stream_type": "hls",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 11,
+    "name": "Tannan Yume Radio 79.1",
+    "description": "たんなん夢レディオは、福井県鯖江市を拠点とする非営利のコミュニティFMです。丹南地域に向けて、地域に寄り添った放送を届けています。\n\n地元ならではのオリジナル番組を中心に楽しめます。丹南地域にお住まいの方はもちろん、福井のローカルな話題や雰囲気に触れてみたい方にもおすすめです。",
+    "image": "https://tannan.fm/webclip-icon.png",
+    "stream_url": "https://tannan.mediaservice.jp:7910/;",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 12,
+    "name": "FMYY 77.8 Kobe",
+    "description": "FMわぃわぃは、神戸市長田区から放送されている多言語のコミュニティFMです。1995年の阪神・淡路大震災をきっかけに誕生し、多様な人々をつなぐ放送を続けています。\n\nさまざまな言語による番組を通じて、多文化が共生する地域の声に触れられます。神戸の街やコミュニティラジオの取り組みに関心のある方、多文化に親しみたい方におすすめです。",
+    "image": "https://tcc117.jp/fmyy/wp-content/uploads/2017/02/cropped-yyfavicon-180x180.png",
+    "stream_url": "https://tcc117.jp/fmyy/asx/simulbroadcast.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 13,
+    "name": "FM Tsuyama 78.0",
+    "description": "エフエム津山は、岡山県津山市の市民によって運営されているコミュニティFMです。地域の人々の手で、まちの身近な情報を発信しています。\n\n地元のニュースやトーク、音楽番組を楽しめます。津山にゆかりのある方や、市民の温かみが感じられるローカルラジオを聴いてみたい方にぴったりのステーションです。",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67907.v2.png",
+    "stream_url": "https://onair.fm-tsuyama.jp/fmtsuyama_live.ogg",
+    "stream_type": "ogg",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 14,
+    "name": "RadiCro",
+    "description": "RadiCroは、日本のインターネットラジオ局です。トークと音楽を組み合わせた番組を配信し、ネットならではの気軽さで楽しめるのが特徴です。\n\nさまざまなトーク番組や音楽番組を楽しめます。いろいろな話題に気軽に耳を傾けたい方や、新しいインターネットラジオを探している方におすすめです。",
+    "image": "https://radicro.com/images/webclip.png",
+    "stream_url": "https://radicrojapan.out.airtime.pro/radicrojapan_b",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 15,
+    "name": "Ashiya Radio",
+    "description": "Ashiya Radioは、兵庫県芦屋市から届けられる音楽ステーションです。落ち着いた街並みを思わせる、上品でくつろいだ雰囲気が魅力です。\n\nボサノバやピアノジャズ、カフェミュージックを楽しめます。読書や作業のお供に、またカフェのような穏やかなひとときを過ごしたい方にぴったりです。",
+    "image": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_512,h_512,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
+    "stream_url": "https://s3.radio.co/sc8d895604/listen",
+    "stream_type": "aac",
+    "country": "JP",
+    "genre": "Jazz"
+  },
+  {
+    "id": 16,
+    "name": "Gotanno FM",
+    "description": "Gotanno FM（五反野89.2）は、日本のインターネットラジオです。日本のインディーズ音楽や同人音楽を24時間絶え間なく配信しています。\n\nメジャーシーンとはひと味違う、個性豊かなインディーズや同人作品に出会えます。新しいアーティストを発掘したい方や、同人音楽が好きな方におすすめです。",
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mdnuovYgEJ9KclQYa5ECb4eR_94VbI-hNx4-Ml5YA7OQ=s300-c-k-c0x00ffffff-no-rj",
+    "stream_url": "https://radio.gotanno.love/",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Indie"
+  },
+  {
+    "id": 17,
+    "name": "Hitsujikai Radio",
+    "description": "Hitsujikai Radioは、北海道士別市の教会から配信されている日本語のキリスト教インターネットラジオです。穏やかで温かみのある放送が特徴です。\n\n聖書のお話や説教、やさしい音楽を楽しめます。キリスト教に関心のある方や、心を落ち着けて静かな時間を過ごしたい方におすすめのステーションです。",
+    "image": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
+    "stream_url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Christian"
+  },
+  {
+    "id": 18,
+    "name": "Friendship Radio",
+    "description": "フレンドシップラジオは、日本語で放送するキリスト教の放送局です。1987年に日本初の24時間キリスト教ラジオとして始まった、長い歩みを持つステーションです。\n\nキリスト教のメッセージや音楽に、日本語で触れることができます。信仰を持つ方はもちろん、キリスト教について知りたい方や心安らぐ放送を求める方にもおすすめです。",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/94731.v2.png",
+    "stream_url": "http://198.7.59.28:8028/stream",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Christian"
+  },
+  {
+    "id": 19,
+    "name": "Radio Hayama",
+    "description": "Radio Hayamaは、神奈川県葉山町から配信されているインターネットラジオです。海辺の町らしい、自由で心地よいセンスの選曲が魅力です。\n\nポップスやオルタナティブ、アンビエント、ジャジーなサウンドを楽しめます。ジャンルにとらわれず、おしゃれな音楽をゆったり聴きたい方にぴったりです。",
+    "image": "https://cdn-radiotime-logos.tunein.com/s155398d.png",
+    "stream_url": "https://server10.reliastream.com/proxy/radiohayama",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Music"
+  },
+  {
+    "id": 20,
+    "name": "Tokyo City FM",
+    "description": "Tokyo City FMは、東京から配信されているインターネットラジオです。都会的でリラックスした雰囲気が魅力のステーションです。\n\n厳選されたトークや街のサウンド、チルな音楽を楽しめます。東京の空気を感じながらくつろぎたい方や、作業中に心地よいBGMを流したい方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s350481/images/logod.jpg",
+    "stream_url": "https://streamer.radio.co/s6117a960f/listen",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Music"
+  },
+  {
+    "id": 21,
+    "name": "Future Groove FM",
+    "description": "Future Groove FMは、東京を拠点に24時間配信しているインターネットラジオです。DJによるショーを中心に、クラブミュージックの熱気を届けています。\n\nハウスやEDM、トランス、ベース、テクノなど、多彩なダンスミュージックを楽しめます。クラブサウンドが好きな方や、気分を上げたいときにぴったりのステーションです。",
+    "image": "https://futuregroovefm.com/assets/images/card.jpg",
+    "stream_url": "https://streamer.radio.co/s4b3dafa6d/listen",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Electronic"
+  },
+  {
+    "id": 22,
+    "name": "Moon Mission Recordings",
+    "description": "Moon Mission Recordingsは、DJ Ken Sekiguchi氏のレーベル「Moon Mission」から届けられる、東京発のエレクトロニック・ミュージックのストリームです。\n\nディープハウスやテクノを中心としたエレクトロニックサウンドを楽しめます。深く心地よいグルーヴに浸りたい方や、東京のクラブミュージックに関心のある方におすすめです。",
+    "image": "https://station-images-prod.radio-assets.com/300/moonmission.png",
+    "stream_url": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Electronic"
+  },
+  {
+    "id": 23,
+    "name": "Radio Eigekai Indies",
+    "description": "Radio Eigekai Indiesは、東京から配信されているインターネットラジオです。日本やアジアのインディーズシーンに光を当てた、個性的な選曲が魅力です。\n\nロックやサイケデリック、テクノ、ポップスなど、ジャンルを越えたインディーサウンドを楽しめます。まだ知らないアーティストとの出会いを求める方にぴったりです。",
+    "image": "https://station-images-prod.radio-assets.com/300/eigekai.png",
+    "stream_url": "https://stream.radiojar.com/66zgtscuc1duv",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Indie"
+  },
+  {
+    "id": 24,
+    "name": "Moss Garden",
+    "description": "Moss Gardenは、東京から配信されているアンビエントミュージックのストリームです。苔庭のような静けさを感じさせる、穏やかなサウンドが特徴です。\n\n休息やリラックス、集中したいときに寄り添うアンビエントを楽しめます。勉強や作業のBGMを探している方や、心を落ち着けたい方におすすめです。",
+    "image": "",
+    "stream_url": "https://radio.moss.garden/listen/moss_garden/radio.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Ambient"
+  },
+  {
+    "id": 25,
+    "name": "The Kyoto Connection Radio",
+    "description": "The Kyoto Connection Radioは、日本のアンビエント音楽を中心に厳選して届けるストリームです。静かで奥行きのある音の世界が広がります。\n\nアンビエントや環境音楽、インストゥルメンタル、ニューエイジ作品を楽しめます。日本の環境音楽に関心のある方や、穏やかな時間を過ごしたい方にぴったりです。",
+    "image": "https://www.thekyotoconnection.com/wp-content/uploads/2025/01/cropped-Logo-192x192.jpg",
+    "stream_url": "https://server.laradio.online:59009/live",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Ambient"
+  },
+  {
+    "id": 26,
+    "name": "Nonstop Casiopea",
+    "description": "Nonstop Casiopeaは、新潟から配信されている日本のジャズフュージョン専門のストリームです。24時間ノンストップで音楽を届けています。\n\nカシオペアやT-SQUAREの名曲を思う存分楽しめます。日本のフュージョンが好きな方や、テクニカルで爽快なインストゥルメンタルを味わいたい方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s268922/images/logod.png",
+    "stream_url": "https://nonstopcasiopea.radioca.st/",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Jazz"
+  },
+  {
+    "id": 27,
+    "name": "SOUND UP STATION NFRS",
+    "description": "SOUND UP STATION NFRSは、大阪から24時間配信しているインターネットラジオです。日本のインディーズ音楽を軸にした放送が特徴です。\n\nインディーズ音楽に加えて、トーク番組やさまざまなラジオ番組を楽しめます。新しい音楽との出会いを求める方や、大阪発のネットラジオに触れたい方にぴったりです。",
+    "image": "https://cdn-profiles.tunein.com/s336649/images/logod.jpg",
+    "stream_url": "https://stream.rcast.net/70945",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Indie"
+  },
+  {
+    "id": 28,
+    "name": "Tenshi no Hashigo (Angel's Ladder)",
+    "description": "天使のはしごは、大阪と三重県津市から配信されている日本のインターネットラジオです。トークと音楽を届ける、親しみやすいステーションです。\n\n気軽に聴けるトーク番組や音楽を楽しめます。肩の力を抜いてラジオを楽しみたい方や、関西・東海エリアの身近な話題に触れたい方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s354800/images/logod.jpg",
+    "stream_url": "https://listen.radioking.com/radio/552224/stream/611507",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 29,
+    "name": "FM Hime (Yodogawa Bousai Radio)",
+    "description": "FM Hime（淀川防災ラジオ）は、大阪から日本語で配信している小規模なトーク中心のステーションです。淀川エリアに密着し、防災をテーマにしています。\n\n地域の話題や防災に関するトークを聴くことができます。淀川周辺にお住まいの方や、日ごろから防災への意識を高めておきたい方におすすめです。",
+    "image": "https://station-images-prod.radio-assets.com/300/fmhime.png",
+    "stream_url": "http://us4.internet-radio.com:8059/live",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "News/Talk"
+  },
+  {
+    "id": 30,
+    "name": "Kimino FM88",
+    "description": "Kimino FM88は、和歌山から配信されているコミュニティ型のインターネットラジオです。地域に寄り添い、暮らしに役立つ情報を発信しています。\n\n防災情報やイベント、観光の情報に加えて音楽も楽しめます。和歌山にお住まいの方や、旅行を計画中で現地の情報を知りたい方にぴったりです。",
+    "image": "https://station-images-prod.radio-assets.com/300/fm88-1.png",
+    "stream_url": "http://us3.internet-radio.com:8245/live",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 31,
+    "name": "Good-AIR! Radio",
+    "description": "Good-AIR! Radioは、熊本から配信されているインターネットラジオです。地元らしい親しみやすさが魅力のステーションです。\n\n地域の話題を取り上げたトークや音楽を楽しめます。熊本にゆかりのある方や、九州のローカルな雰囲気を感じたい方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s344103/images/logod.png",
+    "stream_url": "https://streamer.radio.co/sdf24a3527/listen",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Variety"
+  },
+  {
+    "id": 32,
+    "name": "Yatsushiro Radio",
+    "description": "Yatsushiro Radioは、熊本県八代市から配信されているインターネットラジオです。まちの魅力や暮らしの情報を地域に向けて発信しています。\n\n地元のイベントや観光、市政に関する情報に加えて音楽も楽しめます。八代にお住まいの方や、八代を訪れる予定のある方にぴったりのステーションです。",
+    "image": "https://cdn-profiles.tunein.com/s351018/images/logod.png",
+    "stream_url": "https://a13.asurahosting.com/listen/%E3%83%A4%E3%83%84%E3%82%B7%E3%83%AD%E3%83%A9%E3%82%B8%E3%83%B2_from_good-air/radio.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 33,
+    "name": "Radio Shiga",
+    "description": "Radio Shigaは、滋賀県甲賀市から配信されているポルトガル語のウェブラジオです。日本に暮らすブラジル人コミュニティに向けて放送しています。\n\nポルトガル語による番組を通じて、ブラジルのコミュニティの声や文化に触れられます。ポルトガル語を話す方や、日本の多文化社会に関心のある方におすすめです。",
+    "image": "https://i0.wp.com/wp.radioshiga.com/wp-content/uploads/2023/11/logo-114x114-1.png",
+    "stream_url": "https://sv10.hdradios.net:21920/stream",
+    "stream_type": "aac",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 34,
+    "name": "Radio Mega Mix Japan",
+    "description": "Radio Mega Mix Japanは、三重県から配信されているポルトガル語のラジオです。日本に暮らすブラジル人コミュニティに向けた放送を行っています。\n\nブラジル音楽や世界の音楽を楽しめます。ポルトガル語を話す方はもちろん、ブラジルの明るいサウンドに触れてみたい方にもおすすめのステーションです。",
+    "image": "https://cdn-profiles.tunein.com/s223498/images/logod.png",
+    "stream_url": "https://c36.radioboss.fm:8135/stream",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Community"
+  },
+  {
+    "id": 35,
+    "name": "Super Tokio Radio",
+    "description": "Super Tokio Radioは、日本から配信されているスペイン語のラジオです。日本に暮らすスペイン語話者に向けて、身近な情報を届けています。\n\nラテン音楽をはじめ、ニュースや日本の文化に関する話題をスペイン語で楽しめます。スペイン語を話す方や、ラテンのリズムが好きな方にぴったりです。",
+    "image": "https://cdn.supertokio.com/2025/01/cropped-512x_STR_ROGO_T-192x192.png",
+    "stream_url": "https://streamer.radio.co/s83eb8ff39/listen",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Latin"
+  },
+  {
+    "id": 36,
+    "name": "MILC - Milraji Interactive Live Channel",
+    "description": "MILCは、独立系クリエイターから寄せられた楽曲を24時間配信している日本のインターネットストリームです。JASRAC管理外の楽曲を扱う、現在も開発中のチャンネルです。\n\n個人クリエイターによるオリジナル楽曲を次々と楽しめます。まだ知られていない音楽に出会いたい方や、インディーな創作活動を応援したい方におすすめです。",
+    "image": "https://radio.milradio.info/milc.jpg",
+    "stream_url": "https://radio.milradio.info:9000/milcpod.m3u8",
+    "stream_type": "hls",
+    "country": "JP",
+    "genre": "Indie"
+  },
+  {
+    "id": 37,
+    "name": "Retro PC Game Music Radio",
+    "description": "Retro PC Game Music Radioは、サイト「Gyusyabu」が運営する日本のストリーミングラジオです。懐かしいパソコンゲームの音楽を専門に届けています。\n\n1980年代から1990年代半ばまでのPCゲーム音楽を楽しめます。当時のゲームを遊んだ方の思い出をよみがえらせるのはもちろん、レトロなゲーム音楽に興味のある方にもぴったりです。",
+    "image": "https://cdn-radiotime-logos.tunein.com/s97839d.png",
+    "stream_url": "http://gyusyabu.ddo.jp:8000/",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Game music"
+  },
+  {
+    "id": 38,
+    "name": "CyberForest Fuji (Lake Yamanaka)",
+    "description": "東京大学のサイバーフォレストが、山中湖畔の「富士癒しの森」に設置したマイクから届ける、自然の音のライブ配信です。森の様子をリアルタイムで感じられます。\n\n鳥のさえずりや風の音など、富士山麓の森のありのままの音を楽しめます。リラックスしたいときや作業中の環境音として、自然の音に癒やされたい方におすすめです。",
+    "image": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/yamanakako.jpg",
+    "stream_url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Nature sounds"
+  },
+  {
+    "id": 39,
+    "name": "CyberForest Otsuchi Coast",
+    "description": "東京大学のサイバーフォレストが、岩手県大槌町の音浜に設置したマイクから届ける、海岸の音のライブ配信です。三陸の海辺の今を音で感じられます。\n\n波の音をはじめとした海辺のありのままの環境音を楽しめます。心を落ち着けたいときや眠る前、作業中のBGMとして、自然の音を求める方にぴったりです。",
+    "image": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/otohama3.jpg",
+    "stream_url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Nature sounds"
+  },
+  {
+    "id": 40,
+    "name": "LISTEN.moe J-Pop",
+    "description": "LISTEN.moe J-Popは、J-POPとアニメソングをノンストップで配信しているインターネットラジオです。24時間いつでも聴くことができます。\n\n人気のJ-POPやアニメソングを途切れることなく楽しめます。アニメ好きの方や、作業中に元気の出る日本の音楽を流したい方におすすめです。",
+    "image": "https://listen.moe/images/share.jpg",
+    "stream_url": "https://listen.moe/fallback",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "J-Pop/Anime"
+  },
+  {
+    "id": 41,
+    "name": "Gensokyo Radio",
+    "description": "Gensokyo Radioは、「東方Project」の音楽とそのアレンジ曲を24時間配信しているインターネットラジオです。ファンに愛される専門ステーションです。\n\n原曲から多彩なアレンジ作品まで、東方の音楽の世界をたっぷり楽しめます。東方Projectのファンや、同人音楽・ゲーム音楽が好きな方にぴったりです。",
+    "image": "https://cdn.gensokyoradio.net/images/gr8_logo.png",
+    "stream_url": "https://stream.gensokyoradio.net/1",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "Game music"
+  },
+  {
+    "id": 42,
+    "name": "R/a/dio",
+    "description": "R/a/dioは、アニメソングとJ-POPを届けるインターネットラジオです。ライブDJによる放送があり、ラジオならではのライブ感が魅力です。\n\nアニメの楽曲やJ-POPを、DJの選曲とともに楽しめます。アニメファンの方や、日本のポップミュージックを気軽に聴きたい方におすすめです。",
+    "image": "https://r-a-d.io/assets/images/apple_touch_icon.png",
+    "stream_url": "https://relay0.r-a-d.io/main.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "J-Pop/Anime"
+  },
+  {
+    "id": 43,
+    "name": "J1 HITS",
+    "description": "J1 HITSは、カナダから配信されているJ1 Radioのインターネットステーションです。日本の音楽を海外から届けています。\n\n最新の日本のチャートヒットや人気曲を楽しめます。今どきのJ-POPをチェックしたい方や、話題の曲をまとめて聴きたい方にぴったりです。",
+    "image": "https://cdn-profiles.tunein.com/s261285/images/logod.png",
+    "stream_url": "https://jenny.torontocast.com:2000/stream/J1HITS",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "J-Pop"
+  },
+  {
+    "id": 44,
+    "name": "J1 GOLD",
+    "description": "J1 GOLDは、カナダから配信されているJ1 Radioのインターネットステーションです。昭和後期の日本の名曲を専門に届けています。\n\n1960年代から80年代のヒット曲を、演歌からシティポップまで幅広く楽しめます。懐かしい昭和の歌謡曲を聴きたい方や、シティポップ好きの方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s296850/images/logod.png",
+    "stream_url": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "City Pop"
+  },
+  {
+    "id": 45,
+    "name": "asia DREAM radio - Japan Hits",
+    "description": "asia DREAM radio - Japan Hitsは、カナダから配信されているasia DREAM radioネットワークのインターネットステーションです。日本の音楽を専門に届けています。\n\n最新のJ-POPトップ40ヒットを楽しめます。日本の旬のヒット曲を手軽にチェックしたい方や、J-POPを流しっぱなしにしたい方にぴったりです。",
+    "image": "https://cdn-profiles.tunein.com/s348063/images/logod.png",
+    "stream_url": "https://quincy.torontocast.com:2020/stream.mp3",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "J-Pop"
+  },
+  {
+    "id": 46,
+    "name": "BOX : Japan City Pop",
+    "description": "BOX : Japan City Popは、BOX Radioネットワークが配信するインターネットステーションです。日本のシティポップに特化した選曲が魅力です。\n\n1970年代から80年代のシティポップを楽しめます。洗練された都会的なサウンドが好きな方や、近年再評価が進むシティポップの魅力に浸りたい方におすすめです。",
+    "image": "https://cdn-profiles.tunein.com/s341316/images/logod.jpg",
+    "stream_url": "https://play.streamafrica.net/japancitypop",
+    "stream_type": "mp3",
+    "country": "JP",
+    "genre": "City Pop"
+  }
+]
